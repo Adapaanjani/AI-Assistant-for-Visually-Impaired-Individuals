@@ -96,21 +96,26 @@ Develop an AI-powered Streamlit application that provides comprehensive assistiv
 - Advanced spatial mapping
 - Integration with assistive devices
 
-## 8. Conclusion
+## 8. Preview
+# Audio Samples
+[Listen to the audio](https://github.com/Adapaanjani/AI-Assistant-for-Visually-Impaired-Individuals/blob/main/Scene%20Description.mp3)
+
+
+## 9. Conclusion
 
 The AI-powered assistive solution demonstrates significant potential in empowering visually impaired individuals by providing intelligent, adaptive, and user-friendly technological support.
 
-### 8.1 Impact
+### 9.1 Impact
 - Increases independence
 - Enhances environmental interaction
 - Provides personalized assistance
 
-## 9. Acknowledgments
+## 9.2 Acknowledgments
 - Google AI for generative models
 - YOLOv5 for object detection
 - Open-source community
 
-## 10. References
+## 9.3 References
 - Google Generative AI Documentation
 - YOLOv5 GitHub Repository
 - Streamlit Documentation
