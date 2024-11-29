@@ -97,9 +97,10 @@ Develop an AI-powered Streamlit application that provides comprehensive assistiv
 - Integration with assistive devices
 
 ## 8. Preview
-# Audio Samples
-[Listen to the audio](https://github.com/Adapaanjani/AI-Assistant-for-Visually-Impaired-Individuals/blob/main/Scene%20Description.mp3)
-
+![Project Demo](https://github.com/Adapaanjani/AI-Assistant-for-Visually-Impaired-Individuals/blob/main/Screenshot%20(695).png)
+![Project Demo](https://github.com/Adapaanjani/AI-Assistant-for-Visually-Impaired-Individuals/blob/main/Screenshot%20(696).png)
+![Project Demo](https://github.com/Adapaanjani/AI-Assistant-for-Visually-Impaired-Individuals/blob/main/Screenshot%20(697).png)
+![Project Demo](https://github.com/Adapaanjani/AI-Assistant-for-Visually-Impaired-Individuals/blob/main/Screenshot%20(698).png)
 
 ## 9. Conclusion
 
